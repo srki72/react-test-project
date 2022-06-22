@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-// import './App.css';
 import "./Appb.css";
 
 import Home from "./components/Home";
@@ -16,7 +15,6 @@ import Kitchen from "./components/Kitchen";
 import BathBody from "./components/BathBody";
 import Garden from "./components/Garden";
 
-// import Navbarmenu from './components/menu/Navbarmenu';
 import Navbarmenub from "./components/menu/Navbarmenub";
 
 import Footer from "./components/Footer";
